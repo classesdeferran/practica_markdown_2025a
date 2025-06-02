@@ -1,0 +1,23 @@
+# Título 1
+## Título 2
+### Título 3
+
+*texto en cursiva* o _texto en cursiva_
+**texto en negrita** o __texto en negrita__
+~~texto tachado~~ <- virgulilla
+
+Listas desordenadas
+* ítem de lista desordenada
++ ítem de lista desordenada
+- ítem de lista desordenada
+
+Lista ordenada
+1. Este es un elemento
+2. Este es otro elemento
+
+Enlaces
+[Texto del enlace](url del enlace)
+
+Imágenes
+![Texto alternativo](url de la imagen)
+
