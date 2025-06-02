@@ -1,0 +1,2 @@
+git init -> inicia el repositorio
+git add . -> añade todos los ficheros no excluidos al repositorio
